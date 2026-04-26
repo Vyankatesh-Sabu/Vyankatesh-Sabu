@@ -165,17 +165,11 @@
 ## 📈 Coding Profiles
 
 <p>
-  <a href="https://leetcode.com/Vyankatesh-Sabu" target="_blank">
+  <a href="https://leetcode.com/u/vrsabu545/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-  <a href="https://www.geeksforgeeks.org/user/Vyankatesh-Sabu" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-  </a>
-  <a href="https://www.codechef.com/users/Vyankatesh-Sabu" target="_blank">
+  <a href="https://www.codechef.com/users/vrsabu" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef_1500_(2★)-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
-  </a>
-  <a href="https://codeforces.com/profile/Vyankatesh-Sabu" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
   </a>
 </p>
 
@@ -184,7 +178,7 @@
 ## 🤝 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/vyankatesh-sabu" target="_blank">
+  <a href="https://www.linkedin.com/in/vyankatesh-r-sabu/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:vrsabu545@gmail.com" target="_blank">
